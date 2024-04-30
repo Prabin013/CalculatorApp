@@ -1,0 +1,1 @@
+This is a beautiful Calculator WebApp created using Javascript, HTML5, and CSS. It does the basic calculations such as add, subtract, multiply and divide with a beautiful gradient coloring background for a great user experience.
